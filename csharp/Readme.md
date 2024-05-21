@@ -1,0 +1,2 @@
+# Thrive 2024 - Be ready for C# 12
+C# 12 has been released and the next version of C# is just around the corner. With primary constructors and collection expressions, the code in all .NET applications can be simplified. In this session, you will learn what is behind this, what else is new in C#, what can be done with inline arrays and interceptors, and what is planned for the next version of C#.
