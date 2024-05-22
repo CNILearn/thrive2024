@@ -1,0 +1,10 @@
+{
+  "background_color": "#ffffff",
+  "description": "UnoPlatformSingleProject",
+  "display": "standalone",
+  "name": "UnoPlatformSingleProject",
+  "short_name": "UnoPlatformSingleProject",
+  "start_url": "/index.html",
+  "theme_color": "#ffffff",
+  "scope": "/"
+}

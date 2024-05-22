@@ -1,0 +1,5 @@
+# Thrive 2024 - XAML Clients with WinUI, .NET MAUI, WPF, Uno Platform and Avalonia UI
+Meanwhile, there are a variety of different XAML client technologies. From the Microsoft technologies WPF, WinUI, .NET MAUI to external technologies such as Uno Platform and Avalonia UI. All these technologies can be used to develop native front-end applications, but they have some differences that you should be aware of and take into account when deciding on a technology.
+
+More samples for these XAML technologies can be found in the [Codebreaker.Xaml](https://github.com/CodebreakerApp/Codebreaker.Xaml) repository.
+In [Codebreaker.Xaml](https://github.com/CodebreakerApp/Codebreaker.Xaml) client applications for the game Codebreaker (like the board game Mastermind) are developed using WPF, WinUI, MAUI, Uno Platform and Avalonia UI.
